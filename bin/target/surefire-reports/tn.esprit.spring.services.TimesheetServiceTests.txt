@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tn.esprit.spring.services.TimesheetServiceTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.08 s <<< FAILURE! - in tn.esprit.spring.services.TimesheetServiceTests
+affecterMissionADepartement(tn.esprit.spring.services.TimesheetServiceTests)  Time elapsed: 0.007 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at tn.esprit.spring.services.TimesheetServiceTests.affecterMissionADepartement(TimesheetServiceTests.java:51)
+
